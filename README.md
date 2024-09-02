@@ -33,6 +33,8 @@ The cleaned data was then analyzed using pivot tables in Excel. Key metrics and 
 - **Rating and Reviews:** Analyzing customer ratings and reviews to assess restaurant performance and customer satisfaction.
 ## Dashboard
 A dynamic dashboard was created using Excel to visualize the key findings. The dashboard includes:
+![image](https://github.com/user-attachments/assets/cc105765-9f42-4366-aa01-843e570b4e34)
+
 
 - **Geographical Distribution Chart:** Shows restaurant distribution across different regions.
 - **Cuisine Popularity Chart:** Highlights the most and least popular cuisines.
@@ -59,4 +61,6 @@ For any questions or further information, please contact:
 - **LinkedIn:** https://www.linkedin.com/in/m-sahanwaj/
 ---
 Thank you for being so interested in this Zomato Restaurant Data Analysis project!
+
+
 
